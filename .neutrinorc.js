@@ -10,6 +10,9 @@ module.exports = {
     react({
       html: {
         title: 'hacker-news-react'
+      },
+      devServer: {
+        port: 3000
       }
     })
   ]
